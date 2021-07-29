@@ -1,0 +1,18 @@
+.carusol-bg-color{
+    background-color: #FCEAE8;
+    border-radius: 15px;
+}
+.carousel-item{
+    padding: 25px 40px;
+}
+.price-color{
+   color: #FF136F;
+}
+.button-style{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F );
+    padding: 8px 24px;
+    border-radius: 8px;
+    border:none;
+    color: white;
+    cursor: pointer;
+}
