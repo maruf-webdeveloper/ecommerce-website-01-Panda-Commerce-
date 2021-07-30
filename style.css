@@ -25,6 +25,9 @@
     margin-left:none;
     margin-right: none;
 }
+.catagories-main img{
+    width: 150px;
+}
 .cat1{
     background-color: #FFA500;
 }
