@@ -1,3 +1,7 @@
+.container{
+    padding-bottom: 100px;
+}
+/* Carousel section customization */
 .carusol-bg-color{
     background-color: #FCEAE8;
     border-radius: 15px;
@@ -9,10 +13,61 @@
    color: #FF136F;
 }
 .button-style{
-    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F );
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100% );
     padding: 8px 24px;
     border-radius: 8px;
     border:none;
     color: white;
     cursor: pointer;
 }
+/* Category section customization */
+.catagories-main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.cat1{
+    background-color: #FFA500;
+}
+.cat2{
+    background-color:#DA70D6 ;
+}
+.cat3{
+    background-color: #0000FF;
+}
+.cat1, .cat2, .cat3{
+    color: white;
+    border-radius: 10px;
+}
+/* Shoes section customization */
+.shoes-customize{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+/* Bags section customization */
+.bag-customize{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px; 
+}
+.footer-boder{
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+}
+/* subscribe Customization*/
+#subscribe{
+    background-color: #FCEAE8;
+    border-radius: 15px;
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+/* Footer Customization*/
+#footer-style{
+        font-size: 12px;
+        text-align: center;
+        color: gray;
+}
+
